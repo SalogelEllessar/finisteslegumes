@@ -1,2 +1,0 @@
-Ceci est un fichier .txt bien rédigé comme on les aime
-On modifie depuis github
