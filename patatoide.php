@@ -34,6 +34,7 @@ session_start();
 						}
 						$reponse_base->closeCursor();
 					}
+					
 					?>
 						<form method="post" name="base" action="generateur.php" id="base_aleatoire"> 
 							<input type="submit"  value="<?php echo $_SESSION['base']; ?> " name="base" />
