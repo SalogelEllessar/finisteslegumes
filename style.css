@@ -1,0 +1,16 @@
+section
+{
+	width: 80%;
+	margin: auto;
+	text-align: center;
+}
+#legume1_aleatoire, #legume2_aleatoire, #base_aleatoire, #bonus_aleatoire
+{
+	display: inline-block;
+	margin: 2em 2em;
+}
+#legume1_aleatoire input, #legume2_aleatoire input, #base_aleatoire input, #bonus_aleatoire input
+{
+	height: 150px;
+	width: 150px;
+}
